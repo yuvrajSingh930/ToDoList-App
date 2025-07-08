@@ -58,6 +58,3 @@ Manage your todos efficiently with this simple ToDo application built with React
 - Tailwind CSS
 ### Contributing
   Contributions are welcome! If you find a bug or have an enhancement in mind, please open an issue or create a pull request.
-
-### License
-  This project is licensed under the MIT License.
